@@ -61,11 +61,11 @@ public class MarioAdapter : IUnit
 
 public class Program
 {
-	public static void Main(string[] args)
+    public static void Main(string[] args)
     {
-		KataTestf test1 = new KataTestf();
-		test1._0_MarioAdapter_Can_Attack();
-	}
+	KataTestf test1 = new KataTestf();
+	test1._0_MarioAdapter_Can_Attack();	
+    }
 }
 						
 //Test
